@@ -113,5 +113,4 @@ git push -u origin main
 3. Build command: pip install -r requirements.txt
 4. Start command: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
 5. runtime: Python 3 (render usually auto detects this from requirements.txt)
-6. once its deployed Render gives you a url, something like
-   Replace with your deployed Render URL after deployment.
+6. deployed url: https://recommendation-system-3hjg.onrender.com/
